@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Watcom",
+        "toolchainFile": "../cmake/toolchain/watcom-dos.cmake"
+    }
+]
